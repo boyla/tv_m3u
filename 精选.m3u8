@@ -1,0 +1,275 @@
+#EXTINF:-1 ,CCTV-1综合蓝光
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1 ,CCTV-2财经蓝光
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+
+
+#EXTINF:-1 ,CCTV-3综艺蓝光
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 ,CCTV-4国际
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1 ,CCTV-4国际蓝光
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+
+#EXTINF:-1 ,CCTV-5体育蓝光
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+
+#EXTINF:-1 ,CCTV-5+体育蓝光
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-6蓝光1
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-6蓝光2
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+#EXTINF:-1 ,CCTV-7国防军事
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1 ,CCTV-7国防军事蓝光
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+
+#EXTINF:-1 ,CCTV-8蓝光1
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-8蓝光2
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 ,CCTV-9纪录蓝光
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 ,CCTV-10科教蓝光
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 ,CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1 ,CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+
+#EXTINF:-1 ,CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 ,CCTV-13新闻蓝光
+http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+
+#EXTINF:-1 ,CCTV-14少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 ,CCTV-15蓝光
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+
+#EXTINF:-1 ,CETV蓝光
+http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
+
+#EXTINF:-1 ,北京卫视蓝光
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+
+#EXTINF:-1 ,东方卫视
+http://ivi.bupt.edu.cn/hls/dftv.m3u8
+#EXTINF:-1 ,东方卫视蓝光1
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 ,东方卫视蓝光2
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+
+
+
+#EXTINF:-1 ,海南卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,海南卫视蓝光
+http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 ,陕西卫视
+http://223.82.250.72/live/shanxi1stv/1.m3u8
+
+#EXTINF:-1 ,湖北卫视蓝光1
+http://ivi.bupt.edu.cn/hls/haianhd.m3u8
+#EXTINF:-1 ,湖北卫视蓝光2
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+
+#EXTINF:-1 ,深圳卫视蓝光1
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+
+#EXTINF:-1 ,深圳卫视蓝光2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 ,河南卫视蓝光1
+http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 ,河南卫视蓝光2
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=19&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,河南卫视蓝光3
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,黑龙江卫视1
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1 ,黑龙江卫视2
+http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
+
+#EXTINF:-1 ,黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+
+#EXTINF:-1 ,贵州卫视蓝光3
+http://ivi.bupt.edu.cn/hls/gzhd.m3u8
+
+#EXTINF:-1 ,贵州卫视蓝光1
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=41&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,贵州卫视蓝光2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 ,河北卫视蓝光1
+http://ivi.bupt.edu.cn/hls/hebhd.m3u8
+
+#EXTINF:-1 ,河北卫视蓝光2
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=45&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,新疆卫视
+http://183.207.249.7/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 ,新疆卫视2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#EXTINF:-1 ,吉林卫视蓝光1
+http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=25&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+#EXTINF:-1 ,吉林卫视蓝光2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,吉林卫视蓝光3
+http://ivi.bupt.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 ,青海卫视1
+http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+#EXTINF:-1 ,青海卫视2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,青海卫视3
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 ,兵团卫视
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+#EXTINF:-1 ,江苏卫视蓝光
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,安徽卫视蓝光1
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 ,安徽卫视蓝光2
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=02&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,安徽卫视蓝光3
+http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 ,天津卫视蓝光1
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,天津卫视蓝光2
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,广东卫视蓝光1
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,广东卫视蓝光2
+http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 ,东南卫视蓝光
+http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 ,重庆卫视蓝光
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
+#EXTINF:-1 ,辽宁卫视蓝光
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+
+#EXTINF:-1 ,山东卫视蓝光
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,江西卫视蓝光
+http://ivi.bupt.edu.cn/hls/jxhd.m3u8
+
+#EXTINF:-1 ,内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+
+#EXTINF:-1 ,四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 ,四川卫视蓝光
+http://ivi.bupt.edu.cn/hls/schd.m3u8
+#EXTINF:-1 ,厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 ,广西卫视1
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1 ,广西卫视2
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1 ,广西卫视蓝光
+http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 ,NEW山东
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+#EXTINF:-1 ,NEW江西
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 ,NEW安徽
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 ,NEW广东
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 ,NEW广西
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 ,NEW四川
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+#EXTINF:-1 ,NEW吉林
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
+#EXTINF:-1 ,NEW云南
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 ,NewTV精品电影
+http://39.134.65.4:80/wh7f454c46tw1749080918_-1055122425/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1554599521&from=1&hms_devid=4
+#EXTINF:-1 ,明星大片
+http://39.134.65.7:80/wh7f454c46tw1738936394_2033607545/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&S=1554599511&from=1&hms_devid=29
+#EXTINF:-1 ,NewTV功夫剧场
+http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
+#EXTINF:-1 ,NewTV爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 ,NewTV惊悚悬疑FHD
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 ,NewTV超级体育FHD
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,上海人文
+http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 ,上海纪实高清
+http://ivi.bupt.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 ,金鹰纪实高清
+http://ivi.bupt.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,CHC高清电影1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 ,CHC高清电影2
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+#EXTINF:-1 ,明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 ,凤凰卫视蓝光1
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,凤凰资讯1
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰资讯2
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 ,凤凰资讯3
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 ,TVB明珠台1
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,TVB明珠台2
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,欢笑剧场4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,星空卫视
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+
+
